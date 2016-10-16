@@ -1,4 +1,2 @@
 # hello-world
-my first repo on github. seems to be a good start!!!
-Mozhgan Najafi
-yesssssss
+my first hello world on github
